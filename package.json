@@ -1,8 +1,9 @@
 {
   "name": "i-love-you-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "Color your life.",
   "main": "index.js",
+  "repository": "https://github.com/rickbala/i-love-you-app.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
